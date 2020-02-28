@@ -1,9 +1,9 @@
-package testcases;
+package calculator;
 
 import static org.junit.Assert.assertEquals;
 import org.junit.jupiter.api.Test;
 
-public class test1 {
+public class Calculator {
 
 	@Test
 	public void t1() throws Exception {
